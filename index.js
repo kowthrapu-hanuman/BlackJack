@@ -65,7 +65,7 @@
       }
       */
      let person ={
-          name :vassu,
+          name :hanu,
           age :20,
           country: india
      }
